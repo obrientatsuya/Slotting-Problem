@@ -142,11 +142,9 @@ Sem servidor, sem npm install, sem pipeline de build — basta abrir o arquivo.
 
 ## Screenshots
 
-> *(Insira os screenshots aqui)*
-
-| Visão Geral | Drawer de Caixa | Busca de SKU |
-|---|---|---|
-| ![overview](/overview.PNG) | ![drawer](/drawer.PNG) | ![search](/search.PNG) |
+> ![overview](/overview.PNG)
+> ![drawer](/drawer.PNG) 
+> ![search](/search.PNG)
 
 ---
 
