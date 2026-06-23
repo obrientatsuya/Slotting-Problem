@@ -1,6 +1,6 @@
 # HL Service — Sistema de Gestão de Posições de Estoque
 
-> **Aplicação web de arquivo único para localização em tempo real de SKUs em armazém, construída para ser o mais simples possível de instalar e usar — sem framework, sem build, só abrir e rodar.**
+> **Aplicação web de arquivo único para localização em tempo real de SKUs em armazém, construída para ser o mais simples possível de instalar e usar, sem framework, sem build, só abrir e rodar.**
 
 [🇺🇸 English version](readme-en.md)
 
