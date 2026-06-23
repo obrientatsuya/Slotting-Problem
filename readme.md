@@ -2,7 +2,7 @@
 
 > **Aplicação web de arquivo único para localização em tempo real de SKUs em armazém, construída para ser o mais simples possível de instalar e usar — sem framework, sem build, só abrir e rodar.**
 
-[🇺🇸 English version](README.md)
+[🇺🇸 English version](readme-en.md)
 
 ---
 
