@@ -142,12 +142,9 @@ No server, no npm install, no build pipeline — just open the file.
 
 ## Screenshots
 
-> *(Insert screenshots here)*
-
-| Overview Panel | Box Detail Drawer | SKU Search |
-|---|---|---|
-| ![overview](screenshots/overview.png) | ![drawer](screenshots/drawer.png) | ![search](screenshots/search.png) |
-
+> ![overview](/overview.PNG)
+> ![drawer](/drawer.PNG) 
+> ![search](/search.PNG)
 ---
 
 ## Impact
