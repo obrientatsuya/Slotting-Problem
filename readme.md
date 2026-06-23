@@ -146,7 +146,7 @@ Sem servidor, sem npm install, sem pipeline de build — basta abrir o arquivo.
 
 | Visão Geral | Drawer de Caixa | Busca de SKU |
 |---|---|---|
-| ![overview](screenshots/overview.png) | ![drawer](screenshots/drawer.png) | ![search](screenshots/search.png) |
+| ![overview](/overview.PNG) | ![drawer](/drawer.PNG) | ![search](/search.PNG) |
 
 ---
 
